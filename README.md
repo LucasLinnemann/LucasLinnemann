@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas
 
-I'm the platform engineer at Automated Assembly Corporation, a contract electronics manufacturer in Minnesota. I'm the technical owner of the company's cloud, identity, and production software: the AWS organization, the data platform that collects from the production lines, and the internal apps built on it.
+I'm the platform engineer at Automated Assembly Corporation, a flexible circuit manufacturer for the automotive and medical technology industries, in Minnesota. I'm the technical owner of the company's cloud, identity, and production software: the AWS organization, the data platform that collects from the production lines, and the internal apps built on it.
 
 Right now I'm building toward AI platform engineering: Kubernetes, GitOps, and retrieval systems that are measured with evals instead of guessed at.
 
